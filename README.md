@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Miles's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkoller)](https://github.com/mkoller/github-readme-stats)
+
 <!--
 **mkoller/mkoller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
